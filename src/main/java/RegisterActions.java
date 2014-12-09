@@ -115,7 +115,7 @@ public class RegisterActions {
     }
 
     /**
-     * Поиск и выхов найденного действия
+     * Поиск и вызов найденного действия
      * @param str ввод пользователя
      */
     public static void invokeAction(String str) {
